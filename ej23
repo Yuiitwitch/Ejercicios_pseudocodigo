@@ -1,0 +1,16 @@
+Programa: Ejercicio 23
+Entorno: nombre , titulo , nota
+inciar programa
+algoritmo:
+escribir : "Dime tu nombre"
+escribir : ¿Tienes bachiller?
+SI tiene bachiller
+escribir : "puedes acceder"
+SI NO tiene bachiller
+escribir : ¿Que nota has sacado prueba de acceso?
+leer nota
+SI nota es >=5 
+escribir : "puedes acceder"
+SI NO
+escribir : "no puedes acceder"
+finalizar programa
