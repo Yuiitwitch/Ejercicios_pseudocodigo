@@ -1,16 +1,19 @@
+Algoritmo que lea dos números y nos diga cuál de ellos es mayor o bien si son
+iguales (recuerda usar la estructura condicional SI)
+
 Programa: ejercicio15
-Entorno: num1, num2
 Inicio de programa:
+Entorno: num1, num2
 
 Algoritmo:
 
 escribir " introduzca num1", escribir "introduzca num2"
 leer " num1", leer "num2"
 establecer condicional " si num1 < num2"
-escribir "num1 es < que num2"
+    escribir "num1 es < que num2"
 establecer condicional " si num1 > num2"
-escribir "num1 es > que num2"
+    escribir "num1 es > que num2"
 establecer condicional "si num1 = num2"
-escribir "ambos numeros son iguales"
+    escribir "ambos numeros son iguales"
 
 fin de programa;

@@ -1,16 +1,22 @@
+Algoritmo que nos diga si una persona puede acceder a cursar un 
+ciclo formativo  de grado superior o no. Para acceder a un grado superiorsi 
+se tiene un título de  bachiller, en caso de no tenerlo, se puede acceder 
+si hemos superado una prueba  de acceso. 
+
 Programa: Ejercicio 23
-Entorno: nombre , titulo , nota
 inciar programa
+Entorno: nombre , titulo , nota
 algoritmo:
-escribir : "Dime tu nombre"
-escribir : ¿Tienes bachiller?
+    escribir : "Dime tu nombre"
+    escribir : ¿Tienes bachiller?
+leer nombre y titulo
 SI tiene bachiller
-escribir : "puedes acceder"
+    escribir : "puedes acceder"
 SI NO tiene bachiller
-escribir : ¿Que nota has sacado prueba de acceso?
+    escribir : ¿Que nota has sacado prueba de acceso?
 leer nota
 SI nota es >=5 
-escribir : "puedes acceder"
+    escribir : "puedes acceder"
 SI NO
-escribir : "no puedes acceder"
+    escribir : "no puedes acceder"
 finalizar programa
