@@ -1,0 +1,2 @@
+# Ejercicios_pseudocodigo
+ Ejercicios de pseudocogido equipo 2
