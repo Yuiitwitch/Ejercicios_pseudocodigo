@@ -1,0 +1,15 @@
+Programa: ejercicio5
+Entorno: numeros (array de numeros), resultado (entero)
+Inicio de programa: 
+
+Algoritmo:
+
+hacer 10 veces lo siguiente:
+    escribir "dime un numero"
+    leer el numero introducido
+    
+sumar los numeros y guardarlo en resultado 
+escribir resultado
+
+
+fin de programa;
