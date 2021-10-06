@@ -1,0 +1,19 @@
+Programa: ejercicio18
+Entorno: num1, raiz, potencia (numeros)
+Inicio de programa:
+
+Algoritmo:
+
+    escribir "dime un numero"
+    leer numero
+    SI numero es < o = que 0
+        escribir "error"
+    SI NO
+        calcular RAIZ(num1) y guardar en raiz
+        calcular num1 elevado a 2 y guardar en potencia
+        escribir num1
+        escribir raiz
+        escribir potencia
+
+
+fin de programa;
