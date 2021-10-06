@@ -7,4 +7,4 @@ Mientras el contador sea <= 100
 comprobar resto(contador/2)que es par.
 SI resto es 0.
 escribir "el numero contador es par"
-
+fin del programa;
