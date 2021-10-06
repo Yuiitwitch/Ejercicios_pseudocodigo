@@ -1,0 +1,10 @@
+Programa: Ejercicio 7
+Entorno: contador bucle
+Algoritmo:
+Inicio programa
+Contador es = 1
+Mientras el contador sea <= 100
+comprobar resto(contador/2)que es par.
+SI resto es 0.
+escribir "el numero contador es par"
+
